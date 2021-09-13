@@ -1,6 +1,33 @@
+*{
+	text-align: center;
+	font-family: verdana;
+}
 body{
 	background-color: black;
 }
 h1{
 	color: white;
+	font-size: 50px;
+	font-weight: lighter;
+}
+h2{
+	color: white;
+	font-weight: lighter;
+	font-size: 40px;
+}
+h3{
+	font-size: 18px;
+	font-weight: lighter;
+	color: lightgreen;
+}
+a{
+		color: lightgreen;
+
+}
+p{
+	color: gray;
+	font-size: 20px;
+}
+.main-section{
+	margin-bottom: 15px;
 }
